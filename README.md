@@ -5,7 +5,7 @@ This mod uses a chinese doorbell, the reciever it's rebuild from scratch, i've u
 The reciever it's build from ESP8266 and RF module(XLC-RF-5V, 433Mhz)
 The RF transmitter(doorbell button) has been changed only on OC crystal(it had 315Mhz one) and the antena lenght(the pcb was build for both 315Mhz and 433Mhz), the modification consists only in removing the wire at the end of PCB antena. The transmitter uses an EV1527 with K1 and K2 pins pulled up(it can be changed and matched in sketch via data string).
 
-For the notifications, you'll need to install pushbullet and get an api key and also create a device and get the device identification(follow the api guide given by pushbullet website).
+For the notifications, you'll need to install pushbullet and get an api key and also create a device and get the device identification(follow the api guide given by pushbullet website https://docs.pushbullet.com/).
 
 For the power supply i've used a mini PSU from aliexpres(https://www.aliexpress.com/item/4001260682974.html)
 
