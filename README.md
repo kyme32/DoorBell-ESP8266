@@ -9,9 +9,9 @@ For the notifications, you'll need to install pushbullet and get an api key and 
 
 For the power supply i've used a mini PSU from aliexpres(https://www.aliexpress.com/item/4001260682974.html)
 
-The slide switch allows:
-	1st position - Play next ring.
-	2nd position - Mute.
-	3th position - Repeat current ring.
+The slide switch allows:<br/>
+	1st position - Play next ring.<br/>
+	2nd position - Mute.<br/>
+	3th position - Repeat current ring.<br/>
 ![alt text](https://github.com/kyme32/DoorBell-ESP8266/blob/main/IMG_20210323_164443.jpg?raw=true)
 ![alt text](https://github.com/kyme32/DoorBell-ESP8266/blob/main/IMG_20210323_163051.jpg?raw=true)
