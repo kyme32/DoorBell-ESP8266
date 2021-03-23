@@ -7,5 +7,5 @@ The RF transmitter(doorbell button) has been changed only on OC crystal(it had 3
 
 For the notifications, you'll need to install pushbullet and get an api key and also create a device and get the device identification(follow the api guide given by pushbullet website).
 
-![alt text](https://github.com/kyme32/DoorBell-ESP8266/blob/main/IMG_20210323_160359.jpg?raw=true)
+![alt text](https://github.com/kyme32/DoorBell-ESP8266/blob/main/IMG_20210323_164443.jpg?raw=true)
 ![alt text](https://github.com/kyme32/DoorBell-ESP8266/blob/main/IMG_20210323_163051.jpg?raw=true)
